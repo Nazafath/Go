@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Page Title</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header id="header">
+    <div class="content_wrapper">
+      <H1>Nazafath</H1>
+      <nav>
+        <button class="btn_toggle">
+          <svg class="icon_bars" focusable="false" fill="#fff" aria-hidden="true" viewBox="0 0 24 24"
+            data-testid="MenuIcon">
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path>
+          </svg>
+          <svg class="icon_times" focusable="false" fill="#fff" aria-hidden="true" viewBox="0 0 24 24"
+            data-testid="CloseIcon">
+            <path
+              d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
+            </path>
+          </svg>
+        </button>
+        <ul class="nav_list">
+          <li><a class="nav_action" href="#" id="home_action">Home</a></li>
+          <li><a class="nav_action" href="about.html" id="about_action">About</a></li>
+          <li><a class="nav_action" href="index2.html" id="blog_action">Blog</a></li>
+          <li><a class="nav_action" href="https://www.facebook.com/Nazafat" id="pages_action">Pages</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <menu>
+    <div class="hero-content">
+      <h1>Welcome to My Website</h1>
+      <p class="Szi">
+        It's showcase website. Nothing special or interesting. Or maybe there is. Just made it to pass some time. Yeah
+        that's all. If you wanna contact with me then just go ahead and sent me an email using the form below
+      </p>
+      <a href="about.html" class="btn btn-primary">Learn More</a>
+    </div>
+    </section>
+
+    <section id="sidebar_section">
+      <div class="content_wrapper">
+        <div class="content_box">
+          <h2>Hi</h2>
+          <p>
+            Hello, I am Nazafath. I love to code. Others things i love are books and anime. Just a highschool student
+            learning and trying to experience the world. I am ambitious. Not much out going type but I love to travel.
+            You know what? you can hair me! Just by sending me an email, you can contact with me. And then we can talk.
+            Until then check out this site
+          </p>
+        </div>
+        <aside class="sidebar">
+          <nav>
+            <ul>
+              <li><a href="#">Home</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="#">Services</a></li>
+              <li><a href="mailto:nazafathweller@gmail.com">Contact</a></li>
+            </ul>
+          </nav>
+        </aside>
+      </div>
+    </section>
+
+    <section class="content_card_section">
+      <div class="content_wrapper">
+        <div class="content">
+          <div class="block">
+            <h2>Html</h2>
+            <p>
+              I can give you static website HTML ot HTML5 Services
+            </p>
+          </div>
+          <div class="block">
+            <h2>Css and Bootstrap</h2>
+            <p>
+              I can give you CSS services for static website also in Bootstrap framework. Well, other things come along.
+            </p>
+          </div>
+          <div class="block">
+            <h2>Javascript</h2>
+            <p>
+              Now let's start making the site Dynamic starting with Javascript. I can also provide that.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- <section class="related_image_section">
+      <div class="content_wrapper">
+        <h2>Related Images</h2>
+        <div class="images">
+          <div class="image-container">
+            <img
+              src="https://img.freepik.com/premium-photo/laptop-ppt-presentation-business-meeting-team-working-review-new-digital-website-design-planning-group-marketing-strategy-diversity-corporate-people-collaboration-online-project_590464-80700.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Image 1" />
+          </div>
+          <div class="image-container">
+            <img
+              src="https://img.freepik.com/free-photo/colorful-beautiful-flowers-background-blossom-floral-bouquet-decoration-garden-flowers-plant-pattern-wallpapers-greeting-cards-postcards-design-wedding-invites_90220-1105.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Image 2" />
+          </div>
+          <div class="image-container">
+            <img
+              src="https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Image 3" />
+          </div>
+          <div class="image-container">
+            <img
+              src="https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Image 4" />
+          </div>
+          <div class="image-container">
+            <img
+              src="https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Image 5" />
+          </div>
+          <div class="image-container">
+            <img
+              src="https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Image 6" />
+          </div>
+          <div class="image-container">
+            <img
+              src="https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Image 7" />
+          </div>
+          <div class="image-container">
+            <img
+              src="https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Image 8" />
+          </div>
+          <div class="image-container">
+            <img
+              src="https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Image 9" />
+          </div>
+        </div>
+      </div>
+    </section> -->
+
+    <section class="related_post_section">
+      <div class="content_wrapper">
+        <div class="related-post-tile">
+          <div class="img_wrapper">
+            <a href="https://elca.netlify.com/"><img
+                src="https://img.freepik.com/free-photo/social-media-concept-with-smartphone_52683-100042.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+                alt="Post Image" /></a>
+          </div>
+          <div class="post-details">
+            <h3 class="post-title">Post Title</h3>
+            <p class="post-description">
+
+              <a class="wwre" href="https://elca.netlify.com/">One my other project</a>
+            </p>
+          </div>
+        </div>
+
+        <!-- <div class="related-post-tile">
+          <div class="img_wrapper">
+            <img
+              src="https://img.freepik.com/free-photo/social-media-concept-with-smartphone_52683-100042.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Post Image" />
+          </div>
+          <div class="post-details">
+            <h3 class="post-title">Post Title</h3>
+            <p class="post-description">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              gravida, est vel euismod dictum, libero lorem tincidunt ipsum,
+              sit amet tristique massa justo vel sapien. Donec euismod turpis
+              id risus tincidunt vestibulum. Vivamus a ultrices dolor.
+            </p>
+          </div>
+        </div> -->
+        <!-- <div class="related-post-tile">
+          <div class="img_wrapper">
+            <img
+              src="https://img.freepik.com/free-photo/social-media-concept-with-smartphone_52683-100042.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Post Image" />
+          </div>
+          <div class="post-details">
+            <h3 class="post-title">Post Title</h3>
+            <p class="post-description">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              gravida, est vel euismod dictum, libero lorem tincidunt ipsum,
+              sit amet tristique massa justo vel sapien. Donec euismod turpis
+              id risus tincidunt vestibulum. Vivamus a ultrices dolor.
+            </p>
+          </div>
+        </div>
+
+        <div class="related-post-tile">
+          <div class="img_wrapper">
+            <img
+              src="https://img.freepik.com/free-photo/social-media-concept-with-smartphone_52683-100042.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Post Image" />
+          </div>
+          <div class="post-details">
+            <h3 class="post-title">Post Title</h3>
+            <p class="post-description">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              gravida, est vel euismod dictum, libero lorem tincidunt ipsum,
+              sit amet tristique massa justo vel sapien. Donec euismod turpis
+              id risus tincidunt vestibulum. Vivamus a ultrices dolor.
+            </p>
+          </div>
+        </div>
+        <div class="related-post-tile"> 
+          <div class="img_wrapper">
+            <img
+              src="https://img.freepik.com/free-photo/social-media-concept-with-smartphone_52683-100042.jpg?size=626&ext=jpg&ga=GA1.1.1714516945.1681408488"
+              alt="Post Image" />
+          </div>
+          <div class="post-details">
+            <h3 class="post-title">Post Title</h3>
+            <p class="post-description">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              gravida, est vel euismod dictum, libero lorem tincidunt ipsum,
+              sit amet tristique massa justo vel sapien. Donec euismod turpis
+              id risus tincidunt vestibulum. Vivamus a ultrices dolor.
+            </p>
+          </div>
+        </div>
+      </div> -->
+    </section>
+  </menu>
+
+  <footer>
+    <div class="content_wrapper">
+      <div class="contact-info">
+        <h4>MY email Address</h4>
+        <a class="wwr" href="mailto:nazafathweller@gmail.com">Send me an email</a>
+      </div>
+      <div class="contact-form">
+        <!-- <h4>Contact Us</h4> -->
+        <!-- <form>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required />
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required />
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" required></textarea>
+          <form action="mailto:youremail@example.com" method="post" enctype="text/plain">
+            <label for="email">Enter your email:</label>
+            <input type="email" id="email" name="email" required>
+            <input type="submit" value="Submit">
+          </form>
+        </form> -->
+      </div>
+    </div>
+    <a href="#top" class="back-to-top">Back to Top</a>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+
+</html>
