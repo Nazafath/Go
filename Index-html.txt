@@ -39,8 +39,10 @@
     <div class="hero-content">
       <h1>Welcome to My Website</h1>
       <p class="Szi">
-        It's showcase website. Nothing special or interesting. Or maybe there is. Just made it to pass some time. Yeah
-        that's all. If you wanna contact with me then just go ahead and sent me an email using the form below
+                Greetings. It's showcase website. Nothing special or interesting. Or maybe there is.
+        Particularly, You can reach your bushiness to me through the Contact Option.
+        . If you wanna contact with me then just go ahead and sent me an email using the form below. Thanks a lot for
+        your precious Time.
       </p>
       <a href="about.html" class="btn btn-primary">Learn More</a>
     </div>
